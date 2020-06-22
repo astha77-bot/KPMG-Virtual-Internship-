@@ -4,4 +4,8 @@ The Whole Virtual Inernship was divided into three modules or Sections-
 ### 1.Data Quality Assessment
 It was based on Assessment of data quality and completeness in preparation for analysis the
 Practical skills I gained from working on this module are Data Quality Analysis and Analytical Dashboard Creation.
+
+### 1.Data Insights
+It was based on targeting high value customers based on customer demographics and attributes.The
+Practical skills I gained from working on this module are Data Analytics Customer,Segmentation and Data Driven Presentations
  
